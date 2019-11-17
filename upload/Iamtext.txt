@@ -1,0 +1,12 @@
+this is text
+new line
+
+oh skip line
+double    space
+;
+-
+line #8
+
+
+double skip;
+  ln 12

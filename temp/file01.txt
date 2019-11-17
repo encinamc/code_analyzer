@@ -1,0 +1,2 @@
+<?php
+$color = array('white','green','red','blue'); foreach($color as $c) { echo " <br> :".$c; echo " <br>"; $x = 4 * 5; echo $x; } ?>
